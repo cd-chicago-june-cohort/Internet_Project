@@ -1,0 +1,296 @@
+    #header {
+        width: 970px;
+        color: white;
+    }
+    
+    .globe {
+        width: 85px;
+        height: 90px;
+        display: inline-block;
+        position: absolute;
+        top: -70px;
+    }
+    
+    h1 {
+        color: grey;
+        font-size: 50px;
+        text-align: top;
+        position: relative;
+        top: -29px;
+        right: -94px;
+        display: inline-block;
+        /*font-weight: initial;*/
+        font-weight: 500px;
+    }
+    
+    #blueheader {
+        width: 970px;
+        display: inline-block;
+        background: #447EA6;
+        color: white;
+        position: relative;
+        top: -65px;
+        height: 68px;
+    }
+    
+    h2 {
+        font-size: 33px;
+        text-align: left;
+        display: inline-block;
+        position: relative;
+        top: -10px;
+        /* margin: 2px; */
+        left: 8px;
+    }
+    
+    #container {
+        background: linear-gradient(to bottom, #E6E6E6 25%, white 75%);
+        /*background: #E6E6E6;*/
+        width: 970px;
+        height: 500px;
+        /*display: inline-block;*/
+        position: relative;
+        top: -65px;
+    }
+    
+    #p1 {
+        display: inline-block;
+        color: black;
+        font-weight: bold;
+        font-size: 13px;
+    }
+    
+    .home {
+        width: 17px;
+        height: 17px;
+        display: inline-block;
+        position: relative;
+        bottom: 60px;
+        right: -47px;
+    }
+    
+    h3 {
+        color: blue;
+        font-size: 13px;
+        display: inline-block;
+        position: relative;
+        top: -61px;
+        right: -47px;
+    }
+    
+    .phone {
+        width: 34px;
+        height: 34px;
+        display: inline-block;
+        position: relative;
+        vertical-align: right;
+        right: -534px;
+        top: -40px;
+    }
+    
+    h4 {
+        display: inline-block;
+        font-size: 11px;
+        position: relative;
+        top: -38px;
+        right: -537px;
+        color: grey;
+    }
+    
+    .line {
+        height: 1px;
+        width: 713px;
+        background: grey;
+        position: absolute;
+        right: 2px;
+        top: 67px;
+    }
+    
+    #videobutton {
+        display: inline-block;
+        width: 170px;
+        height: 30px;
+        font-size: 12px;
+        color: white;
+        background: #3A7BA9;
+        text-align: center;
+        border-radius: 9px;
+        position: relative;
+        top: 36px;
+        left: -408px;
+    }
+    
+    #resourcesbutton {
+        display: inline-block;
+        width: 170px;
+        height: 30px;
+        font-size: 12px;
+        color: white;
+        background: #F28129;
+        text-align: center;
+        border-radius: 9px;
+        position: relative;
+        top: 32px;
+        float: left;
+    }
+    
+    section {
+        display: inline-block;
+        color: black;
+        position: relative;
+        left: -85px;
+        top: -50px;
+    }
+    
+    h5 {
+        color: #447EA6;
+        display: inline-block;
+        position: relative;
+        font-size: 17px;
+        top: -11px;
+    }
+    
+    #topp {
+        display: inline-block;
+        position: relative;
+        right: 149px;
+        top: 9px;
+        font-size: 14px;
+    }
+    
+    #list1 {
+        position: relative;
+        top: -28px;
+        font-size: 13px;
+    }
+    
+    #line2 {
+        background: grey;
+        width: 172px;
+        height: 1px;
+        display: inline-block;
+        float: left;
+        position: relative;
+        top: 89px;
+        left: -168px;
+    }
+    
+    #dojoadcontainer {
+        background: grey;
+        width: 172px;
+        height: 270px;
+        display: inline-block;
+        float: left;
+        position: relative;
+        top: -91px;
+    }
+    
+    #ninjabg {
+        width: 170px;
+        display: inline-block;
+        height: 266px;
+        position: relative;
+        top: 2px;
+    }
+    
+    .ninjapic {
+        width: 70px;
+        height: 100px;
+        display: inline-block;
+        position: relative;
+        top: -166px;
+        left: 50px;
+    }
+    
+    .learnmorebutton {
+        display: inline-block;
+        position: relative;
+        bottom: 164px;
+        left: 12px;
+        background: skyblue;
+        border-radius: 5px;
+        width: 148px;
+        color: white;
+        height: 30px;
+    }
+    
+    .clientpic {
+        width: 240px;
+        display: inline-block;
+        position: relative;
+        right: -328px;
+        top: -75px;
+    }
+    
+    h6 {
+        display: inline-block;
+        color: #447EA6;
+        position: relative;
+        font-size: 17px;
+        top: -45px;
+        left: -150px;
+    }
+    
+    ol {
+        color: black;
+        display: inline-block;
+        position: relative;
+        top: -96px;
+        font-size: 13px;
+        left: 85px;
+    }
+    
+    #footer {
+        background: white;
+        color: black;
+        border-style: solid;
+        border-top-color: #1D95DD;
+        border-left-color: #1D95DD;
+        border-right-color: #1D95DD;
+        width: 580px;
+        height: 100px;
+        display: inline-block;
+        position: relative;
+        bottom: 92px;
+        right: -94px;
+        border-bottom-color: white;
+    }
+    
+    #htmlpic {
+        width: 97px;
+        height: 77px;
+        display: inline-block;
+        position: relative;
+        top: 10px;
+        left: 10px;
+    }
+    
+    #footerpara {
+        display: inline-block;
+        font-size: 13px;
+        position: relative;
+        top: -60px;
+        float: right;
+        left: -16px;
+    }
+    
+    h7 {
+        display: inline-block;
+        color: #447EA6;
+        position: relative;
+        font-size: 17px;
+        font-weight: bold;
+        top: -52px;
+        left: 28px;
+    }
+    
+    #adp {
+        display: inline-block;
+        position: absolute;
+        z-index: 100px;
+        color: white;
+        text-align: center;
+        font-size: 20px;
+        left: 20px;
+        top: -10px;
+    }
